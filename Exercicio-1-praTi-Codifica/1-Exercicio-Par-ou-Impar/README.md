@@ -51,6 +51,6 @@ Digite um número inteiro: 7
 O número 7 é ÍMPAR.
 ```
 
----
 
-✅ Projeto simples ideal para quem está começando com JavaScript e Node.js.
+
+
