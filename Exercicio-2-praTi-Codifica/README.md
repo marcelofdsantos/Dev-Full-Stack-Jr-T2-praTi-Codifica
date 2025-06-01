@@ -28,8 +28,10 @@ Este repositório contém um conjunto de desafios práticos para consolidar conc
 
 ```bash
 # Clone o repositório
-git clone https://github.com/seu-usuario/exercicios-js-intermediario.git
-cd exercicios-js-intermediario
+
+[git clone https://github.com/seu-usuario/exercicios-js-intermediario.git](https://github.com/marcelofdsantos/Dev-Full-Stack-Jr-T2-praTi-Codifica.git)
+
+cd Dev-Full-Stack-Jr-T2-praTi-Codifica
 
 # Execute cada exercício com Node.js
 node nome-do-arquivo.js
@@ -41,4 +43,4 @@ node nome-do-arquivo.js
 
 ## ✨ Autor
 
-Desenvolvido por [Seu Nome Aqui] — sempre evoluindo! 🚀
+Desenvolvido por Marcelo F. dos santos — sempre evoluindo! 🚀
